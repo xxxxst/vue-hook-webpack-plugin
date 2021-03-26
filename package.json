@@ -1,0 +1,25 @@
+{
+	"name": "vue-hook-webpack-plugin",
+	"description": "inject hook to vue, support vue3 or high version",
+	"version": "0.0.1",
+	"main": "./lib/plugin.js",
+	"private": false,
+	"author": "xxxxst",
+	"license": "MIT",
+	"scripts": {
+		
+	},
+	"files": [
+		"lib"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xxxxst/vue-hook-webpack-plugin.git"
+	},
+	"dependencies": {
+
+	},
+	"devDependencies": {
+
+	}
+}
