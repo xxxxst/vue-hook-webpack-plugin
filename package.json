@@ -1,5 +1,5 @@
 {
-	"name": "vue-hook-webpack-plugin",
+	"name": "@xxxxst/vue-hook-webpack-plugin",
 	"description": "inject hook to vue, support vue3 or high version",
 	"version": "0.0.1",
 	"main": "./lib/plugin.js",
